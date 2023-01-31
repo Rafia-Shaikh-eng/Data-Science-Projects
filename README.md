@@ -2,7 +2,7 @@
 <h2>Project#01: Exploratory data analysis on dataset Who suicides</h2>
 <h3>Project Description</h3>
 
-![image](https://user-images.githubusercontent.com/64796657/215677924-96c4952c-32e4-416c-ab29-78e2b52a4cc2.png)
+![image](https://user-images.githubusercontent.com/64796657/215678261-cf97dcfd-8c57-49a8-8e01-b017d232831b.png)
 
 <p>I obtained a dataset called "WHO Suicide Statistics" from the Kaggle website, which covers basic historical data from 1979 to 2016. I first processed the data by evaluating and filling in missing values with the mean, and ensuring the correct data format. I then performed exploratory data analysis using the Seaborn library in Python, which is a data visualization tool based on matplotlib. The results of the analysis showed that a higher proportion of suicides were committed by males, with a lower proportion committed by females. Additionally, the results indicated that the suicide rate has decreased over the years</p>
 
